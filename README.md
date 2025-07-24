@@ -1,5 +1,24 @@
-# RockPaperScissors_Game
-This is a minor frontend project that I had created just for practice and fun.
-Here I have used HTML, CSS and JavaScript to build the Rock Paper Scissors game in software version.
-<br>
-In this game a single user plays with the computer by clicking on their selected choice. The scores are updated during the course of the game. One can also reset the game to start again from beginning.
+# ✊✋✌️ Rock Paper Scissors Game
+
+A lighthearted web-based version of the classic hand game — built with **HTML**, **CSS**, and **JavaScript**. Designed as a frontend practice project, this game lets users challenge the computer in a quick match of wits, reflexes, and sheer luck.
+
+---
+
+## 🎮 Gameplay Features
+
+- 🖱️ Click-to-play interaction for instant move selection  
+- 🧠 Randomized computer response with score tracking  
+- 🏆 Live score updates during gameplay  
+- 🔄 Reset button to restart the match anytime  
+- 🎨 Responsive UI with playful styling
+
+---
+
+## 🛠 Tech Stack
+
+| Layer      | Tools Used              |
+|------------|--------------------------|
+| Structure  | HTML                     |
+| Styling    | CSS                      |
+| Logic      | JavaScript               |
+
